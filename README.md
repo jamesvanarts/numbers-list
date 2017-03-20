@@ -20,5 +20,3 @@ Eight
 Nine
 
 Ten
-
-This is a commit from a local repository using Git
